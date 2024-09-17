@@ -22,8 +22,9 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
 -->
+<!--
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=M4NU5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> 
+ ![](https://github-readme-stats.vercel.app/api?username=M4NU5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M4NU5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4NU5&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
