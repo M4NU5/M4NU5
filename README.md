@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on private LLM server<br>🤝 I’m looking for help with ^^^^^^^^^^^^^^<br>🌱 I’m currently learning SANS 540<br>💬 Ask me about philosophy <br>⚡ Fun fact - There are more stars in the universe than seconds in a human life
+🔭 I’m currently working on private LLM server<be>
+🤝 I’m looking for help with ^^^^^^^^^^^^<be>
+🌱 I’m currently learning SANS 540<be>
+💬 Ask me about philosophy <be>
+⚡ Fun fact - There are more stars in the universe than seconds in a human life
 
 
 # 💻 Tech Stack:
